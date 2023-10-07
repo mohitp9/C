@@ -1,0 +1,6 @@
+Joe|0|40
+Rojal|1|35
+Mohit|2|25
+Aaron|0|30
+Abin|1|28
+Sona|2|0
